@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 
 A model to identify whether a new transaction is fraudulent or not.
 We used CRISP-DM methodology.

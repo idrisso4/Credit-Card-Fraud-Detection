@@ -7,3 +7,12 @@ Next we calculated the correlation between attributes.
 Then feature selection and we tested different machine learning algorithms. The best one was the decision tree.
 
 ✅ Keywords: Python, Data Mining, Machine Learning
+
+
+![](barplot.png)
+
+![](correlation.png)
+
+![](heatmap.png)
+
+![](evaluation.jpg)
